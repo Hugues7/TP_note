@@ -100,10 +100,3 @@ This is a FastAPI application that interacts with MongoDB and Neo4j databases to
   - `name` (required): The name of the user.
 - **Response**: A JSON object containing the user name, count of rated movies, and list of rated movie titles.
 
-## Contributing
-
-Contributions are welcome! Please create a pull request or submit an issue for any bugs or feature requests.
-
-## License
-
-This project is licensed under the MIT License.
